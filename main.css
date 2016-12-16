@@ -1,0 +1,49 @@
+h1{
+    text-align: center;
+    border: none;
+    background-image: url(images/background.jpg);
+    color: white;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    margin-top: -10px;
+    margin-right: -9px;
+    margin-left: -9px;
+    font-family: Tahoma;
+}
+body{
+    font-family: Helvetica;
+    color: black;
+}
+h2{
+    text-align: center;
+    font-family: 'Raleway',sans-serif; 
+    font-size: 62px; 
+    font-weight: 800; 
+    line-height: 72px; 
+    margin: 0 0 24px; 
+    text-align: center; 
+    text-transform: uppercase;
+}
+#title{
+    color: aquamarine;
+}
+h4{
+    margin: 1em 0 0.5em 0;
+	color: #343434;
+	font-size: 22px;
+	line-height: 40px;
+	font-weight: normal;
+	text-transform: uppercase;
+	font-family: 'Orienta', sans-serif;
+	letter-spacing: 1px;
+	font-style: bold;
+    font-weight: 900;
+
+}
+#virus-types{
+    float: right;
+}
+p{
+    font-family: Helvetica;
+    font-size: 17.5px
+}
